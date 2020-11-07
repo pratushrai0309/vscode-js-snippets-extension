@@ -1,0 +1,17 @@
+{
+  "log":{
+    "prefix": "$log",
+    "body": [
+      "console.log('')"
+    ],
+    "description": "Log to a console"
+  },
+
+  "arrowFunction":{
+    "prefix": "$arrfunc",
+    "body": [
+      "const arrowFunction = () => {",
+      "}"
+    ]
+  }
+}

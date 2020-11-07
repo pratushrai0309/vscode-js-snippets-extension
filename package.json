@@ -1,0 +1,25 @@
+{
+    "name": "js-snippets",
+    "displayName": "Js Snippets",
+    "description": "A Library Of Javascript Snippets",
+    "version": "1.0.0",
+    "author": {
+        "email": "pratushrai0309@gmail.com",
+        "name": "Pratush Rai",
+        "url": "https://github.com/pratushrai0309"
+    },
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "Javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
